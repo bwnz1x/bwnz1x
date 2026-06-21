@@ -1,4 +1,8 @@
-## Hi there 👋
+!(https://bwn.s-ul.eu/p9Gs8jpI)
+## Ben Phan / bwnz1x
+### SFU CS 30'
+
+Python / HTML&CSS / C (learning)
 
 <!--
 **bwnz1x/bwnz1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
