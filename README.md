@@ -2,8 +2,6 @@
 
 ## Ben Phan / bwnz1x
 
-Education: SFU CS 30'
-
 Languages: Python / HTML&CSS / C (learning)
 
 Aspiring CS student. Attended 2025&2026 XDHacksMini hackathon event.
